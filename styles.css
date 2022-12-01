@@ -17,3 +17,19 @@
 .bottom-space{
     padding-bottom: 3em;
 }
+
+.card-button{
+    width: 49%;        
+}
+
+.f-l{
+    float:left;    
+}
+
+.f-r{
+    float:right;        
+}
+
+.card-body a{
+    color:white;
+}
