@@ -1,5 +1,6 @@
 # Portfolio Website
-![web demo](assets/out.gif)
+![web demo](assets/demo.gif)
+
 Contains a quick summary about me. The portolio lists out the significant projects I did. This website is made with bootstrap framework
 ## Projects
 Below are the data engineering related projects I did.
@@ -13,6 +14,7 @@ Data Pipeline for [NOAA Global Surface Summary of the Day (GSOD)](https://www.nc
 
 ### 2. r/Art
 ![r/Art](assets/2.jpg)
+
 **Source Code**: _Ongoing Project_
 **Live Dashboard**: _Ongoing Project_
 
@@ -20,6 +22,7 @@ The project web-scrapes archived posts in [r/Art](https://www.reddit.com/r/art/)
 
 ### 3. Crypto Monitor
 ![crypto chart](assets/3.jpg)
+
 **Source Code**: _Ongoing Project_
 **Live Dashboard**: _Ongoing Project_
 
