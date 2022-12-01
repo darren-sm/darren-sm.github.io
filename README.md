@@ -1,7 +1,7 @@
 # Portfolio Website
 ![web demo](assets/demo.gif)
 
-See it live at: [](https://darren-sm.github.io/)
+See it live at: [https://darren-sm.github.io/](https://darren-sm.github.io/)
 Contains a quick summary about me. The portolio lists out the significant projects I did. This website is made with bootstrap framework
 ## Projects
 Below are the data engineering related projects I did.
