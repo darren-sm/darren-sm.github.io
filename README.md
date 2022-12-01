@@ -1,5 +1,5 @@
 # Portfolio Website
-![quick demo](assets/out.gif)
+![web demo](assets/out.gif)
 Contains a quick summary about me. The portolio lists out the significant projects I did. This website is made with bootstrap framework
 ## Projects
 Below are the data engineering related projects I did.
