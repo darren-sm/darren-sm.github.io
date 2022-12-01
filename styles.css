@@ -1,5 +1,19 @@
 .thick-text {
     font-family: "Montserrat", sans-serif;
-    font-weight: 600;
-    color: #F6F6F6;
+    font-weight: 600;    
+}
+
+.top-space{
+    padding-top: 6em;
+}
+
+.top-space-2{
+    padding-top: 8px;
+}
+
+.bottom-space{
+    padding-bottom: 5em;
+}
+.bottom-space{
+    padding-bottom: 3em;
 }
