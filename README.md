@@ -6,7 +6,7 @@ Contains a quick summary about me. The portolio lists out the significant projec
 ## Projects
 Below are some projects I made:
 ### 1. Weather ELT Pipeline
-<img src="https://raw.githubusercontent.com/darren-sm/darren-sm.github.io/main/assets/1.png?token=GHSAT0AAAAAACA2BAC6OXVC3QA7IKJMM6AUZDULCJA" alt="Image asset/1.png" style="zoom:50%;" />
+<img src="assets/1.png" />
 
 **Source Code**: [GitHub Link](https://github.com/darren-sm/Weather-Data-Pipeline)
 
