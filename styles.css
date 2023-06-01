@@ -33,3 +33,7 @@
 .card-body a{
     color:white;
 }
+
+#pdf-container {
+    height: 100%;
+  }
