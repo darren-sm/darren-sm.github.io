@@ -20,7 +20,9 @@ Gather and analyze 1000 popular posts from the Reddit's front page for Philippin
 - Optimized data retrieval by leveraging Reddit's API and implementing multi-threading for parallel execution of requests.
 - Developed an insightful data visualization using Jupyter Notebook and the matplotlib library.
 
-### 3. Crypto Data Pipeline
-**Source Code**: [GitHub Link](https://github.com/darren-sm/crypto-data-pipeline)
+### 3. Open Quake
+**Source Code**: [GitHub Link](https://github.com/darren-sm/open-quake)
 
-Data pipeline for top 100 cryptocurrency coins data using [Coingecko API](https://www.coingecko.com/en/api/documentation). The data pipeline is made as a function in [Google Cloud Function](https://cloud.google.com/functions) to be executed every 5 minutes through [Google Cloud Scheduler](https://cloud.google.com/scheduler) trigger
+![](./assets/dashboard.gif)
+
+This is a simple pipeline for [DOST Philippine Institute of Volcanology and Seismology (DOST-PHIVOLCS) data](https://earthquake.phivolcs.dost.gov.ph/). Phivolcs is the institution responsible in forecasting volcanic eruptions and earthquakes in the Philippine region.

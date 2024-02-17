@@ -48,9 +48,7 @@
                     <li class="nav-item px-2">
                         <a class="nav-link thick-text" href="#projects">Projects</a>
                     </li>
-                    <li class="nav-item px-2">
-                        <a class="nav-link thick-text" href="#contact">Contact</a>
-                    </li>
+                   
                 </ul>
             </div>
         </div>
@@ -91,7 +89,7 @@
                 
                 <div class="col-md-4 top-space-2">
                     <p>
-                        Hi!! I'm <i><b>Darren Malibiran</b></i>, a 3rd Year Computer Science Student in Batangas State University. I aspire to be a <i><b>Data Engineer</b></i> working with large scale of data. 
+                        Hi!! I'm <i><b>Darren Malibiran</b></i>, a Computer Science Student in Batangas State University, and I aspire to be a future <i><b>Data Engineer</b></i>. 
                     </p>
                     <p>
                         Below are some of the projects I worked with related to the field using Python, SQL, Google Cloud, and other tools.
@@ -166,12 +164,14 @@
             <!--Project 3-->
             <div class="col-md-4 mb-3">
                 <div class="card">
-                    <img class="card-img-top" src="assets/3.jpg" alt="poject3">
+                    <img class="card-img-top" src="assets/openquake.png" alt="poject3">
                 </div>
                 <div class="card-body">
-                    <h4 class="card-title text-center py-3">Crypto Data Pipeline</h4>
-                    <p class="card-text">Data pipeline for top 100 cryptocurrency coins data using <a href="https://www.coingecko.com/en/api/documentation">Coingecko API</a>. The data pipeline is made as a function in <a href="https://cloud.google.com/functions">Google Cloud Function</a> to be executed every 5 minutes through <a href="https://cloud.google.com/scheduler">Google Cloud Scheduler</a> trigger</p>                                        
-                    <button class="btn btn-primary card-button f-l bi-code-slash" type="button" onclick="location.href='https://github.com/darren-sm/crypto-data-pipeline'"> Code</button>
+                    <h4 class="card-title text-center py-3">OpenQuake</h4>
+                    <p class="card-text">Simple pipeline for DOST-PHIVOLCS earthquake data. It is a polling system built with Google Cloud Function to parse PHIVOLCS bulletin postings into a structured data uploaded into a Google Cloud Storage. </p>                                        
+                    <button class="btn btn-primary card-button f-l bi-code-slash" type="button" onclick="location.
+                    href='https://github.com/darren-sm/open-quake'"> Code</button>
+                    
               </div>
             </div>
             
@@ -184,52 +184,6 @@
         </svg>
     </section>
 
-    
-    <!--Contact-->
-    <section id="contact">
-        <div class="container top-space">
-            <div class="row text-center mb-3 text-dark">
-                <div class="col">
-                    <h2 class="text-center thick-text">
-                        Contact
-                    </h2>
-                </div>
-            </div>
-        <div class="row justify-content-center">
-            <div class="col-md-6">
-                <form class="fw-bolder">
-                    <div class="mb-3 ">
-                        <label for="name" class="form-label">Your Name</label>
-                        <input class="form-control" name="name" id="name" type="text" placeholder="Name"                       aria-describedby="name" required>
-                    </div>
-                    <div class="mb-3">
-                        <label for="email" class="form-label">Your Email</label>
-                        <input class="form-control" name="email" id="email" type="email" placeholder="Email Address"                       aria-describedby="email" required>
-                    </div>
-                    <div class="mb-3">
-                        <label for="message" class="form-label">Your message</label>
-                        <textarea class="form-control" name="message" id="message" rows="3" placeholder="Write your message here..." required></textarea>
-                    </div>
-                    <button class="btn btnsa-primary btn-dark btn-kirim" type="submit" disabled>Contact</button>
-                    
-                    </button>
-                </form>
-            </div>
-        </div>
-        </div>
-        <!--efek gelombang-->
-        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 1440 320">
-        <path fill="#212529" fill-opacity="10"
-            d="M0,64L48,80C96,96,192,128,288,128C384,128,480,96,576,80C672,64,768,64,864,96C960,128,1056,192,1152,186.7C1248,181,1344,107,1392,69.3L1440,32L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z">
-        </path>
-        </svg>
-    </section>
-    <!--Akhir Contact-->
-
-
-    <!--Footer-->
-    <footer class="bg-dark text-white text-center pb-5">
-        <p>&copy; Copyright 2022, Darren Malibiran | <span class="bi-envelope"></span> darrenmalibiran@outlook.com | <span class="bi-telephone"></span> +63 995-449-3933
-    </footer>
+    <p style="text-align: center;">&copy; Copyright 2022, Darren Malibiran | <span class="bi-envelope"></span> darrenmalibiran@outlook.com | <span class="bi-telephone"></span> +63 995-449-3933</p>
 </body>
 </html>
